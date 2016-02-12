@@ -16,7 +16,7 @@
         }
     ],
     "require": {
-        "yii-email-module": "v3.1.1",
+        "clevertech/yii-booster": "v3.1.1",
         "swiftmailer/swiftmailer": "~5.4",
         "mustache/mustache": ">=v2.5.0"
     },
